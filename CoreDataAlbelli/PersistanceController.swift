@@ -1,22 +1,14 @@
 import UIKit
 import CoreData
 
-
-//fetchRequest.predicate = NSPredicate(format: "artId LIKE %@", "PAP_201_COVER")
-
-
 enum PersistanceError: Error {
     case persistance(error: Error)
     case articleExists
-    case articleDoesNotExists
+    case articleDoesNotExist
     case articlesDoNotExist
-//    case userDoesNotExist
-//    case usersNotFetched
     case articleNotFound
     case slqDBNotFound
     case noArticleMatchesDescription
-
-//    case noUsersFound
 }
 
 enum PersistanceResult {
@@ -24,11 +16,8 @@ enum PersistanceResult {
     case articlesPersisted
     case articleUpdated
     case articlesDeleted
-//    case userUpdated
-//    case usersPersisted
-//    case userDeleted
+    case articleDeleted
 }
-
 
 class PersistanceController {
 
@@ -88,7 +77,7 @@ class PersistanceController {
         // MARK: Fetch Article
         // MARK: Purge All Articles
         // MARK: Filter Article
-    // MARK: Delete Article
+        // MARK: Delete Article
 
     //================
     // MARK: Save Article
@@ -154,7 +143,7 @@ class PersistanceController {
             let results = try context.fetch(fetchRequest) as? [ArticleMO]
 
             guard results?.count != 0, let oldArticle = results?[0] else {
-                cb(.failure(.articleDoesNotExists))
+                cb(.failure(.articleDoesNotExist))
                 return
             }
 
@@ -270,7 +259,7 @@ class PersistanceController {
         do {
             let result = try context.fetch(request)
             guard result.count != 0, let articleMO = result[0] as? ArticleMO else { // At least one was returned
-                cb(.failure(.articleDoesNotExists))
+                cb(.failure(.articleDoesNotExist))
                 return
             }
 
@@ -338,40 +327,35 @@ class PersistanceController {
         }
     }
 
-    
-//
-//    func deleteUser(userId: String, cb: ((Result<PerResult, PerError>) -> Void)) {
-//
-//        let context = persistentContainer.viewContext
-//
-//        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceHelper.userEntityName)
-//        request.predicate = NSPredicate(format: "userId = %@", userId)
-//        request.returnsObjectsAsFaults = false
-//
-//        do {
-//            let result = try context.fetch(request)
-//
-//            guard result.count != 0 else {
-//                cb(.failure(.userDoesNotExist))
-//                return
-//            }
-//
-//            for object in result {
-//                context.delete(object as! NSManagedObject)
-//            }
-//
-//            // KVO
-//    //        for data in result as! [NSManagedObject] {
-//    //           print(data.value(forKey: "username") as! String)
-//    //        }
-//        } catch {
-//            cb(.failure(PerError.persistance(error: error)))
-//        }
-//
-//        saveContext {
-//            cb(.success(.userDeleted))
-//        } fail: { (error) in
-//            cb(.failure(PerError.persistance(error: error)))
-//        }
-//    }
+    // MARK: Delete Article
+    func deleteArticle(byArticleId articleId: String, cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
+
+        let context = persistentContainer.viewContext
+        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
+        request.predicate = NSPredicate(format: "articleId LIKE %@", "\(articleId)")
+
+        request.returnsObjectsAsFaults = false
+
+        do {
+            let result = try context.fetch(request)
+
+            guard result.count != 0 else {
+                cb(.failure(.articleDoesNotExist))
+                return
+            }
+
+            for object in result {
+                context.delete(object as! NSManagedObject)
+            }
+
+        } catch {
+            cb(.failure(.persistance(error: error)))
+        }
+
+        saveContext {
+            cb(.success(.articleDeleted))
+        } fail: { (error) in
+            cb(.failure(.persistance(error: error)))
+        }
+    }
 }

@@ -93,18 +93,23 @@ class ArticlesVC: UIViewController {
 //        }
 
         // MARK: Filter Article
-        PersistanceController.shared.filter(byDescription: "Perfect ver") { (result) in
-            switch result {
-            case .failure(let err):
-                print(err)
-            case .success(let articles):
-                print(articles)
-            }
-        }
+//        PersistanceController.shared.filter(byDescription: "Perfect ver") { (result) in
+//            switch result {
+//            case .failure(let err):
+//                print(err)
+//            case .success(let articles):
+//                print(articles)
+//            }
+//        }
 
-
-
-
-        print("")
+        // MARK: Delete Article
+//        PersistanceController.shared.deleteArticle(byArticleId: "PAP_130") { (result) in
+//            switch result {
+//            case .failure(let err):
+//                print(err)
+//            case .success(let status):
+//                print(status)
+//            }
+//        }
     }
 }
