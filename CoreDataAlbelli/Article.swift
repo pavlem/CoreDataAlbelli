@@ -6,7 +6,7 @@ import Foundation
 struct Article: Codable {
     let id: String?
     let materials: [Material]?
-    let description: String?
+    var description: String?
     let productTemplateUrl: String?
     let spineCalculationType: String?
     let previewImageUrl: String?
@@ -21,6 +21,20 @@ struct Article: Codable {
     let articleType: String?
     let defaultNumberOfPages: Int?
     let sizeDescription: String?
+}
+
+extension Article {
+    var articleExtrasData: Data? {
+        return try? JSONEncoder().encode(self.extras)
+    }
+
+    var articleMaterialsData: Data? {
+        return try? JSONEncoder().encode(self.materials)
+    }
+
+    var articleSizeData: Data? {
+        return try? JSONEncoder().encode(self.size)
+    }
 }
 
 // MARK: - Extras

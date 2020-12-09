@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="20B29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ArticleEntity" representedClassName="ArticleMO" syncable="YES">
+        <attribute name="articleDescription" optional="YES" attributeType="String"/>
+        <attribute name="articleId" optional="YES" attributeType="String"/>
+        <attribute name="articleType" optional="YES" attributeType="String"/>
+        <attribute name="defaultNumberOfPages" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="extras" optional="YES" attributeType="Binary"/>
+        <attribute name="materials" optional="YES" attributeType="Binary"/>
+        <attribute name="photoCoverSurplus" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="previewImageUrl" optional="YES" attributeType="String"/>
+        <attribute name="price" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="productTemplateUrl" optional="YES" attributeType="String"/>
+        <attribute name="size" optional="YES" attributeType="Binary"/>
+        <attribute name="sizeDescription" optional="YES" attributeType="String"/>
+        <attribute name="spineCalculationType" optional="YES" attributeType="String"/>
+        <attribute name="thumbnailUrl" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="vendorArticleId" optional="YES" attributeType="String"/>
+        <attribute name="visible" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="ArticleEntity" positionX="-63" positionY="-18" width="128" height="284"/>
+    </elements>
+</model>
