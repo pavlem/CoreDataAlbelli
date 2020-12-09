@@ -9,11 +9,11 @@ enum PersistanceError: Error {
     case persistance(error: Error)
     case articleExists
     case articleDoesNotExists
-    case noArticlesFound
+    case articlesDoNotExist
 //    case userDoesNotExist
 //    case usersNotFetched
-//    case userNotFound
-//    case dbNotFound
+    case articleNotFound
+    case slqDBNotFound
 //    case noUsersFound
 }
 
@@ -21,6 +21,7 @@ enum PersistanceResult {
     case articlePersisted
     case articlesPersisted
     case articleUpdated
+    case articlesDeleted
 //    case userUpdated
 //    case usersPersisted
 //    case userDeleted
@@ -81,9 +82,9 @@ class PersistanceController {
         // MARK: Update Article
         // MARK: Save Or Update Articles
         // MARK: Save Or Update Article
-    // MARK: Fetch Articles
-    // MARK: Fetch Article
-    // MARK: Purge All Articles
+        // MARK: Fetch Articles
+        // MARK: Fetch Article
+        // MARK: Purge All Articles
     // MARK: Filter Article
     // MARK: Delete Article
 
@@ -186,7 +187,7 @@ class PersistanceController {
     }
 
     // MARK: Save Or Update Articles
-    func saverOrUpdate(articles: [Article], cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
+    func saveOrUpdate(articles: [Article], cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
 
         for article in articles {
             saveOrUpdate(article: article) { (result) in
@@ -234,140 +235,89 @@ class PersistanceController {
         }
     }
 
+    func fetchArticles(cb: ((Result<[Article], PersistanceError>) -> Void)) {
+
+        let context = persistentContainer.viewContext
+
+        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
+        request.returnsObjectsAsFaults = false
+
+        do {
+            guard let resultsArticles = try context.fetch(request) as? [ArticleMO], resultsArticles.count > 0 else {
+                cb(.failure(.articlesDoNotExist))
+                return
+            }
+
+            let articles = resultsArticles.map { Article(articleMO: $0) }
+
+            cb(.success(articles))
+        } catch {
+            print("fetchUsers Failed: \(error)")
+            cb(.failure(.persistance(error: error)))
+        }
+    }
+
+    // MARK: Fetch Article
+    func fetchArticle(forArticleId articleId: String, cb: ((Result<Article, PersistanceError>) -> Void)) {
+
+        let context = persistentContainer.viewContext
+
+        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
+        request.predicate = NSPredicate(format: "articleId LIKE %@", "\(articleId)")
+        request.returnsObjectsAsFaults = false
+
+        do {
+            let result = try context.fetch(request)
+            guard result.count != 0, let articleMO = result[0] as? ArticleMO else { // At least one was returned
+                cb(.failure(.articleDoesNotExists))
+                return
+            }
+
+            let article = Article(articleMO: articleMO)
+            cb(.success(article))
+
+        } catch {
+            cb(.failure(.persistance(error: error)))
+        }
+    }
+
+    // MARK: Purge All Articles
+    func purgeAllArticles(cb: @escaping ((Result<PersistanceResult, PersistanceError>) -> Void)) {
+
+        let datamodelName = "ArticlesModel"
+        let storeType = "sqlite"
+
+        let url: URL = {
+            let url = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0].appendingPathComponent("\(datamodelName).\(storeType)")
+
+            if FileManager.default.fileExists(atPath: url.path) == false {
+                cb(.failure(.slqDBNotFound))
+            }
+            return url
+        }()
+
+        func loadStores() {
+            persistentContainer.loadPersistentStores(completionHandler: { (nsPersistentStoreDescription, error) in
+                if let error = error {
+                    cb(.failure(.persistance(error: error)))
+                }
+            })
+        }
+
+        func deleteAndRebuild() {
+            try! persistentContainer.persistentStoreCoordinator.destroyPersistentStore(at: url, ofType: storeType, options: nil)
+
+            loadStores()
+        }
+
+        deleteAndRebuild()
+        cb(.success(.articlesDeleted))
+    }
 
 
 
 
-
-
-//    func fetchArticles(cb: ((Result<[Article], PersistanceError>) -> Void)) {
-//
-//        let context = persistentContainer.viewContext
-//
-//        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
-//        request.returnsObjectsAsFaults = false
-//
-//        do {
-//            // NSManagedObject property approach
-//
-//            guard let resultsArticles = try context.fetch(request) as? [ArticleMO], resultsArticles.count > 0 else {
-//                cb(.failure(.noArticlesFound))
-//                return
-//            }
-//
-//            var articles = [Article]()
-//
-//            for articleMO in resultsArticles {
-//
-//                let materials = try? JSONDecoder().decode([Material].self, from: articleMO.mat ?? Data())
-//
-//
-//
-//                let article = Article(id: <#T##String?#>, materials: <#T##[Material]?#>, description: <#T##String?#>, productTemplateUrl: <#T##String?#>, spineCalculationType: <#T##String?#>, previewImageUrl: <#T##String?#>, extras: <#T##Extras?#>, vendorArticleId: <#T##String?#>, photoCoverSurplus: <#T##Double?#>, thumbnailUrl: <#T##String?#>, title: <#T##String?#>, price: <#T##Double?#>, size: <#T##PageWidthAndHeight?#>, visible: <#T##Int?#>, articleType: <#T##String?#>, defaultNumberOfPages: <#T##Int?#>, sizeDescription: <#T##String?#>)
-//
-//
-//
-//
-//
-//                let pets = try? JSONDecoder().decode([Pet].self, from: userCD.pets ?? Data())
-//
-//                let userModel = UserModel(
-//                    id: userCD.userId ?? "",
-//                    username: userCD.username,
-//                    password: userCD.password,
-//                    age: userCD.age,
-//                    pets: pets
-//                )
-//                print(userCD.username ?? "")
-//                users.append(userModel)
-//            }
-//
-//            cb(.success(users))
-//
-//            // KVO
-//    //        let result = try context.fetch(request)
-//    //        for data in result as! [NSManagedObject] {
-//    //           print(data.value(forKey: "username") as! String)
-//    //        }
-//
-//        } catch {
-//            print("fetchUsers Failed: \(error)")
-//            cb(.failure(PerError.persistance(error: error)))
-//        }
-//    }
-//
-//    func fetchUser(forId userId: String, cb: ((Result<UserModel, PerError>) -> Void)) {
-//
-//        let context = persistentContainer.viewContext
-//
-//        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceHelper.userEntityName)
-//        request.predicate = NSPredicate(format: "userId = %@", userId)
-//        request.returnsObjectsAsFaults = false
-//
-//        do {
-//            let result = try context.fetch(request)
-//            guard result.count != 0 else { // At least one was returned
-//                cb(.failure(PerError.userNotFound))
-//                return
-//            }
-//
-//            // NSManagedObject property approach
-//            let userCD = result[0] as! UserCD
-//            print(userCD.username ?? "")
-//
-//            let pets = try? JSONDecoder().decode([Pet].self, from: userCD.pets ?? Data())
-//
-//            let userModel = UserModel(
-//                id: userCD.userId ?? "",
-//                username: userCD.username,
-//                password: userCD.password,
-//                age: userCD.age,
-//                pets: pets
-//            )
-//
-//            cb(.success(userModel))
-//
-//            // KVO
-//    //        for data in result as! [NSManagedObject] {
-//    //           print(data.value(forKey: "username") as! String)
-//    //        }
-//        } catch {
-//            cb(.failure(PerError.persistance(error: error)))
-//        }
-//    }
-//
-//    func dropDB(cb: @escaping ((Result<(), PerError>) -> Void)) {
-//
-//        let datamodelName = "CoreDataDemo"
-//        let storeType = "sqlite"
-//
-//        let url: URL = {
-//            let url = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0].appendingPathComponent("\(datamodelName).\(storeType)")
-//
-//            if FileManager.default.fileExists(atPath: url.path) == false {
-//                cb(.failure(PerError.dbNotFound))
-//            }
-//            return url
-//        }()
-//
-//        func loadStores() {
-//            persistentContainer.loadPersistentStores(completionHandler: { (nsPersistentStoreDescription, error) in
-//                if let error = error {
-//                    cb(.failure(PerError.persistance(error: error)))
-//                }
-//            })
-//        }
-//
-//        func deleteAndRebuild() {
-//            try! persistentContainer.persistentStoreCoordinator.destroyPersistentStore(at: url, ofType: storeType, options: nil)
-//
-//            loadStores()
-//        }
-//
-//        deleteAndRebuild()
-//        cb(.success(()))
-//    }
-//
+    
 //    func filter(by userName: String, cb: ((Result<[UserModel], PerError>) -> Void)) {
 //
 //        let context = persistentContainer.viewContext
