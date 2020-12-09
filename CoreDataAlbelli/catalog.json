@@ -1,0 +1,5101 @@
+[
+  {
+    "id" : "PAP_130",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.40000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_130.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_130.png",
+    "description" : "Perfect versatile size. Stylish and practical [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "15236",
+    "photoCoverSurplus" : 4,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_130.png",
+    "title" : "Landscape M 20x15 cm",
+    "price" : 16.989999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 15
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "20x15"
+  },
+  {
+    "id" : "PAP_130_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.40000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_130_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_130_cover.png",
+    "vendorArticleId" : "15237",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_130_cover.png",
+    "title" : "Landscape M 20x15 cm",
+    "price" : 20.989999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 15
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "20x15"
+  },
+  {
+    "id" : "PAP_194",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.75,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.45000000000000001
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_194.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_194.png",
+    "description" : "The Bonusprint Classic! Perfect to make a lasting impression [min. 24, max. 120 pages]",
+    "vendorArticleId" : "15238",
+    "photoCoverSurplus" : 6,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_194.png",
+    "title" : "Square XL 30x30 cm",
+    "price" : 34.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_194_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.75,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.45000000000000001
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_194_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_194_cover.png",
+    "vendorArticleId" : "15239",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_194_cover.png",
+    "title" : "Square XL 30x30 cm",
+    "price" : 40.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_324",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.65000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.40000000000000002
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_324.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_324.png",
+    "description" : "An ideal size for any coffee table [min. 24, max. 120 pages]",
+    "vendorArticleId" : "15241",
+    "photoCoverSurplus" : 5.1600000000000001,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_324.png",
+    "title" : "Square L 21x21 cm",
+    "price" : 26.489999999999998,
+    "size" : {
+      "width" : 21,
+      "height" : 21
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "21x21"
+  },
+  {
+    "id" : "PAP_324_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.65000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.40000000000000002
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_324_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_324_cover.png",
+    "vendorArticleId" : "15242",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_324_cover.png",
+    "title" : "Square L 21x21 cm",
+    "price" : 31.649999999999999,
+    "size" : {
+      "width" : 21,
+      "height" : 21
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "21x21"
+  },
+  {
+    "id" : "PAP_347",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.65000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.40000000000000002
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_347.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_347.png",
+    "description" : "A great larger format for landscape photos [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "15243",
+    "photoCoverSurplus" : 5,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_347.png",
+    "title" : "Landscape L 28x21 cm",
+    "price" : 27.989999999999998,
+    "size" : {
+      "width" : 28,
+      "height" : 21
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "28x21"
+  },
+  {
+    "id" : "PAP_347_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.65000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.40000000000000002
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_347_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_347_cover.png",
+    "vendorArticleId" : "15244",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_347_cover.png",
+    "title" : "Landscape L 28x21 cm",
+    "price" : 32.990000000000002,
+    "size" : {
+      "width" : 28,
+      "height" : 21
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "28x21"
+  },
+  {
+    "id" : "PAP_348",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.65000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.40000000000000002
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_348.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_348.png",
+    "description" : "Similar to our classic photo book. A4 format [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "15245",
+    "photoCoverSurplus" : 5,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_348.png",
+    "title" : "Portrait L 21x28 cm",
+    "price" : 27.989999999999998,
+    "size" : {
+      "width" : 21,
+      "height" : 28
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "21x28"
+  },
+  {
+    "id" : "PAP_348_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.65000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      },
+      "premiumLayFlat" : {
+        "id" : "PremiumLayFlatOption",
+        "basePrice" : 0,
+        "extraPagePrice" : 0.40000000000000002
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_348_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_348_cover.png",
+    "vendorArticleId" : "15246",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_348_cover.png",
+    "title" : "Portrait L 21x28 cm",
+    "price" : 32.990000000000002,
+    "size" : {
+      "width" : 21,
+      "height" : 28
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "21x28"
+  },
+  {
+    "id" : "PAP_354",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.20000000000000001,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_354.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_354.png",
+    "description" : "A small photo book ideal to give as a mini gift. [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "15247",
+    "photoCoverSurplus" : 3,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_354.png",
+    "title" : "Landscape S 13x10 cm",
+    "price" : 9.9900000000000002,
+    "size" : {
+      "width" : 13.300000000000001,
+      "height" : 10
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "13x10"
+  },
+  {
+    "id" : "PAP_354_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.20000000000000001,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_354_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_354_cover.png",
+    "vendorArticleId" : "15248",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_354_cover.png",
+    "title" : "Landscape S 13x10 cm",
+    "price" : 12.99,
+    "size" : {
+      "width" : 13.300000000000001,
+      "height" : 10
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "13x10"
+  },
+  {
+    "id" : "PAP_360",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.29999999999999999,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_360.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_360.png",
+    "description" : "Add a personal touch to special occasions [min. 24, max. 120 pages]",
+    "vendorArticleId" : "15263",
+    "photoCoverSurplus" : 4,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_360.png",
+    "title" : "Square M 14x14 cm",
+    "price" : 17.489999999999998,
+    "size" : {
+      "width" : 14,
+      "height" : 14
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "14x14"
+  },
+  {
+    "id" : "PAP_360_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.29999999999999999,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_360_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_360_cover.png",
+    "vendorArticleId" : "15264",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_360_cover.png",
+    "title" : "Square M 14x14 cm",
+    "price" : 21.489999999999998,
+    "size" : {
+      "width" : 14,
+      "height" : 14
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "14x14"
+  },
+  {
+    "id" : "PAP_355",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.90000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_355.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_355.png",
+    "description" : "Our biggest size. Add a black leather, linen or a photo cover [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "15265",
+    "photoCoverSurplus" : 10,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_355.png",
+    "title" : "Landscape XL 39x29 cm",
+    "price" : 44.990000000000002,
+    "size" : {
+      "width" : 38.799999999999997,
+      "height" : 29.100000000000001
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "38x29"
+  },
+  {
+    "id" : "PAP_355_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.90000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_355_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_355_cover.png",
+    "vendorArticleId" : "15266",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_355_cover.png",
+    "title" : "Landscape XL 39x29 cm",
+    "price" : 54.990000000000002,
+    "size" : {
+      "width" : 38.799999999999997,
+      "height" : 29.100000000000001
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "38x29"
+  },
+  {
+    "id" : "PAP_403",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_403.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_403.png",
+    "vendorArticleId" : "15269",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_403.png",
+    "title" : "canvas 40 x 30 cm",
+    "price" : 24.989999999999998,
+    "size" : {
+      "width" : 40,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x30"
+  },
+  {
+    "id" : "PAP_404",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_404.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_404.png",
+    "vendorArticleId" : "15270",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_404.png",
+    "title" : "canvas 60 x 40 cm",
+    "price" : 36.990000000000002,
+    "size" : {
+      "width" : 60,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x40"
+  },
+  {
+    "id" : "PAP_405",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_405.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_405.png",
+    "vendorArticleId" : "15271",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_405.png",
+    "title" : "canvas 70 x 50 cm",
+    "price" : 42.490000000000002,
+    "size" : {
+      "width" : 70,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x50"
+  },
+  {
+    "id" : "PAP_408",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_408.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_408.png",
+    "vendorArticleId" : "15272",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_408.png",
+    "title" : "canvas 100 x 70 cm",
+    "price" : 73.989999999999995,
+    "size" : {
+      "width" : 100,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x70"
+  },
+  {
+    "id" : "PAP_409",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_409.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_409.png",
+    "vendorArticleId" : "15273",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_409.png",
+    "title" : "canvas 120 x 80 cm",
+    "price" : 82.989999999999995,
+    "size" : {
+      "width" : 120,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "120x80"
+  },
+  {
+    "id" : "PAP_410",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_410.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_410.png",
+    "vendorArticleId" : "15274",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_410.png",
+    "title" : "canvas 30 x 30 cm",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_411",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_411.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_411.png",
+    "vendorArticleId" : "15275",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_411.png",
+    "title" : "canvas 40 x 40 cm",
+    "price" : 28.489999999999998,
+    "size" : {
+      "width" : 40,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x40"
+  },
+  {
+    "id" : "PAP_412",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_412.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_412.png",
+    "vendorArticleId" : "15276",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_412.png",
+    "title" : "canvas 50 x 50 cm",
+    "price" : 29.989999999999998,
+    "size" : {
+      "width" : 50,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x50"
+  },
+  {
+    "id" : "PAP_413",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_413.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_413.png",
+    "vendorArticleId" : "15277",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_413.png",
+    "title" : "canvas 60 x 60 cm",
+    "price" : 43.490000000000002,
+    "size" : {
+      "width" : 60,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x60"
+  },
+  {
+    "id" : "PAP_414",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_414.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_414.png",
+    "vendorArticleId" : "15278",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_414.png",
+    "title" : "canvas 70 x 70 cm",
+    "price" : 46.490000000000002,
+    "size" : {
+      "width" : 70,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x70"
+  },
+  {
+    "id" : "PAP_415",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_415.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_415.png",
+    "vendorArticleId" : "15279",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_415.png",
+    "title" : "canvas 80 x 80 cm",
+    "price" : 64.989999999999995,
+    "size" : {
+      "width" : 80,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x80"
+  },
+  {
+    "id" : "PAP_417",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_417.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_417.png",
+    "vendorArticleId" : "15280",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_417.png",
+    "title" : "canvas 100 x 100 cm",
+    "price" : 80.989999999999995,
+    "size" : {
+      "width" : 100,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x100"
+  },
+  {
+    "id" : "PAP_418",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_418.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_418.png",
+    "vendorArticleId" : "15281",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_418.png",
+    "title" : "canvas 30 x 20 cm",
+    "price" : 16.989999999999998,
+    "size" : {
+      "width" : 30,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x20"
+  },
+  {
+    "id" : "PAP_349",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.55000000000000004,
+        "maxExtraPages" : 36,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_349.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_349.png",
+    "description" : "An easy flexible soft cover version in A4 format [min. 24 pages, max 60 pages]",
+    "vendorArticleId" : "15283",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/pap_349.png",
+    "title" : "Portrait L 21x28 cm Soft Cover",
+    "price" : 19.989999999999998,
+    "size" : {
+      "width" : 21,
+      "height" : 28
+    },
+    "visible" : 1,
+    "articleType" : "SoftCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "21x28"
+  },
+  {
+    "id" : "PAP_109",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.40000000000000002,
+        "maxExtraPages" : 36,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_109.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/\/productshots\/previews\/PAP_109.png",
+    "description" : "An easy flexible soft cover version in A5 format [min. 24 pages, max 60 pages]",
+    "vendorArticleId" : "15350",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/\/productshots\/thumbs\/PAP_109.png",
+    "title" : "Landscape M 20x15cm Soft Cover",
+    "price" : 13.99,
+    "size" : {
+      "width" : 20,
+      "height" : 15
+    },
+    "visible" : 1,
+    "articleType" : "SoftCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "20x15"
+  },
+  {
+    "id" : "PAP_653",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.048099999999999997
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_653.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_653.png",
+    "vendorArticleId" : "15661",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_653.png",
+    "title" : "A4 Double Photo Calendar",
+    "price" : 21.989999999999998,
+    "size" : {
+      "width" : 29.699999999999999,
+      "height" : 42
+    },
+    "visible" : 1,
+    "articleType" : "Calendar",
+    "defaultNumberOfPages" : 26,
+    "sizeDescription" : "29x42"
+  },
+  {
+    "id" : "PAP_450",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_450.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_450.png",
+    "vendorArticleId" : "15866",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_450.png",
+    "title" : "acrylic 40 x 30",
+    "price" : 51.990000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x30"
+  },
+  {
+    "id" : "PAP_451",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_451.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_451.png",
+    "vendorArticleId" : "15867",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_451.png",
+    "title" : "acrylic 60 x 40",
+    "price" : 64.989999999999995,
+    "size" : {
+      "width" : 60,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x40"
+  },
+  {
+    "id" : "PAP_452",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_452.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_452.png",
+    "vendorArticleId" : "15868",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_452.png",
+    "title" : "acrylic 70 x 50",
+    "price" : 90.989999999999995,
+    "size" : {
+      "width" : 70,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x50"
+  },
+  {
+    "id" : "PAP_453",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_453.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_453.png",
+    "vendorArticleId" : "15869",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_453.png",
+    "title" : "acrylic 100 x 70",
+    "price" : 169.99000000000001,
+    "size" : {
+      "width" : 100,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x70"
+  },
+  {
+    "id" : "PAP_454",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_454.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_454.png",
+    "vendorArticleId" : "15870",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_454.png",
+    "title" : "acrylic 30 x 20",
+    "price" : 34.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x20"
+  },
+  {
+    "id" : "PAP_455",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_455.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_455.png",
+    "vendorArticleId" : "15871",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_455.png",
+    "title" : "acrylic 120 x 80",
+    "price" : 229.99000000000001,
+    "size" : {
+      "width" : 120,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "120x80"
+  },
+  {
+    "id" : "PAP_470",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_470.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_470.png",
+    "vendorArticleId" : "15872",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_470.png",
+    "title" : "acrylic 20 x 30",
+    "price" : 34.990000000000002,
+    "size" : {
+      "width" : 20,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x30"
+  },
+  {
+    "id" : "PAP_471",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_471.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_471.png",
+    "vendorArticleId" : "15873",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_471.png",
+    "title" : "acrylic 30 x 40",
+    "price" : 51.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x40"
+  },
+  {
+    "id" : "PAP_472",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_472.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_472.png",
+    "vendorArticleId" : "15874",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_472.png",
+    "title" : "acrylic 40 x 60",
+    "price" : 64.989999999999995,
+    "size" : {
+      "width" : 40,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x60"
+  },
+  {
+    "id" : "PAP_473",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_473.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_473.png",
+    "vendorArticleId" : "15875",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_473.png",
+    "title" : "acrylic 50 x 70",
+    "price" : 90.989999999999995,
+    "size" : {
+      "width" : 50,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x70"
+  },
+  {
+    "id" : "PAP_474",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_474.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_474.png",
+    "vendorArticleId" : "15876",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_474.png",
+    "title" : "acrylic 70 x 100",
+    "price" : 169.99000000000001,
+    "size" : {
+      "width" : 70,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x100"
+  },
+  {
+    "id" : "PAP_475",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_475.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_475.png",
+    "vendorArticleId" : "15877",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_475.png",
+    "title" : "acrylic 80 x 120",
+    "price" : 229.99000000000001,
+    "size" : {
+      "width" : 80,
+      "height" : 120
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x120"
+  },
+  {
+    "id" : "PAP_420",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_420.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_420.png",
+    "vendorArticleId" : "15878",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_420.png",
+    "title" : "canvas 20 x 30 cm",
+    "price" : 16.989999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x30"
+  },
+  {
+    "id" : "PAP_421",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_421.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_421.png",
+    "vendorArticleId" : "15879",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_421.png",
+    "title" : "canvas 30 x 40 cm",
+    "price" : 24.989999999999998,
+    "size" : {
+      "width" : 30,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x40"
+  },
+  {
+    "id" : "PAP_422",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_422.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_422.png",
+    "vendorArticleId" : "15880",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_422.png",
+    "title" : "canvas 40 x 60 cm",
+    "price" : 36.990000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x60"
+  },
+  {
+    "id" : "PAP_423",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_423.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_423.png",
+    "vendorArticleId" : "15881",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_423.png",
+    "title" : "canvas 50 x 70 cm",
+    "price" : 42.490000000000002,
+    "size" : {
+      "width" : 50,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x70"
+  },
+  {
+    "id" : "PAP_424",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_424.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_424.png",
+    "vendorArticleId" : "15882",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_424.png",
+    "title" : "canvas 70 x 100 cm",
+    "price" : 73.989999999999995,
+    "size" : {
+      "width" : 70,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x100"
+  },
+  {
+    "id" : "PAP_425",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_425.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_425.png",
+    "vendorArticleId" : "15883",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_425.png",
+    "title" : "canvas 80 x 120 cm",
+    "price" : 82.989999999999995,
+    "size" : {
+      "width" : 80,
+      "height" : 120
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x120"
+  },
+  {
+    "id" : "PAP_050",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_050.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_050.png",
+    "vendorArticleId" : "15891",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_050.png",
+    "title" : "Bonusprint Voucher",
+    "price" : 0,
+    "size" : {
+      "width" : 21,
+      "height" : 29.699999999999999
+    },
+    "visible" : 1,
+    "articleType" : "Voucher",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "21x29"
+  },
+  {
+    "id" : "PAP_711",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_711.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_711.png",
+    "description" : "Personalised iPhone 4 photo case",
+    "vendorArticleId" : "15920",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_711.png",
+    "title" : "iPhone 4\/4S case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 5.5,
+      "height" : 11
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "5x11"
+  },
+  {
+    "id" : "PAP_712",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_712.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_712.png",
+    "description" : "Personalised iPhone 5 photo case",
+    "vendorArticleId" : "15921",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_712.png",
+    "title" : "iPhone 5\/5S case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 5.5,
+      "height" : 11.800000000000001
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "5x11"
+  },
+  {
+    "id" : "PAP_713",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_713.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_713.png",
+    "description" : "Personalised Samsung Galaxy S3 photo case",
+    "vendorArticleId" : "15922",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_713.png",
+    "title" : "Samsung Galaxy S3 case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 6.2000000000000002,
+      "height" : 11.6
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "6x11"
+  },
+  {
+    "id" : "PAP_714",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_714.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_714.png",
+    "description" : "Personalised Samsung Galaxy S4 photo case",
+    "vendorArticleId" : "15923",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_714.png",
+    "title" : "Samsung Galaxy S4 case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 6.4000000000000004,
+      "height" : 13
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "6x13"
+  },
+  {
+    "id" : "PAP_426",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_426.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_426.png",
+    "vendorArticleId" : "15984",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_426.png",
+    "title" : "canvas 60 x 80",
+    "price" : 53.490000000000002,
+    "size" : {
+      "width" : 60,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x80"
+  },
+  {
+    "id" : "PAP_427",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_427.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_427.png",
+    "vendorArticleId" : "15985",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_427.png",
+    "title" : "canvas 80 x 60",
+    "price" : 53.490000000000002,
+    "size" : {
+      "width" : 80,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x60"
+  },
+  {
+    "id" : "PAP_456",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_456.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_456.png",
+    "vendorArticleId" : "15986",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_456.png",
+    "title" : "acrylic 80 x 60",
+    "price" : 104.98999999999999,
+    "size" : {
+      "width" : 80,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x60"
+  },
+  {
+    "id" : "PAP_476",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_476.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/pap_476.png",
+    "vendorArticleId" : "15987",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_476.png",
+    "title" : "acrylic 60 x 80",
+    "price" : 104.98999999999999,
+    "size" : {
+      "width" : 60,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x80"
+  },
+  {
+    "id" : "PAP_510",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_510.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_510.png",
+    "vendorArticleId" : "16136",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_510.png",
+    "title" : "Aluminium Print  30 x 20",
+    "price" : 28.989999999999998,
+    "size" : {
+      "width" : 30,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x20"
+  },
+  {
+    "id" : "PAP_511",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_511.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_511.png",
+    "vendorArticleId" : "16137",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_511.png",
+    "title" : "Aluminium Print 40 x 30",
+    "price" : 43.490000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x30"
+  },
+  {
+    "id" : "PAP_512",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_512.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_512.png",
+    "vendorArticleId" : "16138",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_512.png",
+    "title" : "Aluminium Print 60 x 40",
+    "price" : 54.990000000000002,
+    "size" : {
+      "width" : 60,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x40"
+  },
+  {
+    "id" : "PAP_513",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_513.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_513.png",
+    "vendorArticleId" : "16139",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_513.png",
+    "title" : "Aluminium Print 70 x 50",
+    "price" : 84.989999999999995,
+    "size" : {
+      "width" : 70,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x50"
+  },
+  {
+    "id" : "PAP_514",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_514.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_514.png",
+    "vendorArticleId" : "16140",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_514.png",
+    "title" : "Aluminium Print 80 x 60",
+    "price" : 89.989999999999995,
+    "size" : {
+      "width" : 80,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x60"
+  },
+  {
+    "id" : "PAP_515",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_515.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_515.png",
+    "vendorArticleId" : "16141",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_515.png",
+    "title" : "Aluminium Print 100 x 70",
+    "price" : 124.98999999999999,
+    "size" : {
+      "width" : 100,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x70"
+  },
+  {
+    "id" : "PAP_516",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_516.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_516.png",
+    "vendorArticleId" : "16142",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_516.png",
+    "title" : "Aluminium Print 120 x 80",
+    "price" : 209.99000000000001,
+    "size" : {
+      "width" : 120,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "120x80"
+  },
+  {
+    "id" : "PAP_517",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_517.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_517.png",
+    "vendorArticleId" : "16143",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_517.png",
+    "title" : "Aluminium Print 20 x 30",
+    "price" : 28.989999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x30"
+  },
+  {
+    "id" : "PAP_518",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_518.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_518.png",
+    "vendorArticleId" : "16144",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_518.png",
+    "title" : "Aluminium Print 30 x 40",
+    "price" : 43.490000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x40"
+  },
+  {
+    "id" : "PAP_519",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_519.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_519.png",
+    "vendorArticleId" : "16145",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_519.png",
+    "title" : "Aluminium Print 40 x 60",
+    "price" : 54.990000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x60"
+  },
+  {
+    "id" : "PAP_520",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_520.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_520.png",
+    "vendorArticleId" : "16146",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_520.png",
+    "title" : "Aluminium Print 50 x 70",
+    "price" : 84.989999999999995,
+    "size" : {
+      "width" : 50,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x70"
+  },
+  {
+    "id" : "PAP_521",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_521.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_521.png",
+    "vendorArticleId" : "16147",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_521.png",
+    "title" : "Aluminium Print 60 x 80",
+    "price" : 89.989999999999995,
+    "size" : {
+      "width" : 60,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x80"
+  },
+  {
+    "id" : "PAP_522",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_522.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_522.png",
+    "vendorArticleId" : "16148",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_522.png",
+    "title" : "Aluminium Print 70 x 100",
+    "price" : 124.98999999999999,
+    "size" : {
+      "width" : 70,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x100"
+  },
+  {
+    "id" : "PAP_523",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_523.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_523.png",
+    "vendorArticleId" : "16149",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_523.png",
+    "title" : "Aluminium Print 80 x 120",
+    "price" : 209.99000000000001,
+    "size" : {
+      "width" : 80,
+      "height" : 120
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x120"
+  },
+  {
+    "id" : "PAP_524",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_524.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_524.png",
+    "vendorArticleId" : "16150",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_524.png",
+    "title" : "Aluminium Print 30 x 30",
+    "price" : 34.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_525",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_525.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_525.png",
+    "vendorArticleId" : "16151",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_525.png",
+    "title" : "Aluminium Print 40 x 40",
+    "price" : 46.490000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x40"
+  },
+  {
+    "id" : "PAP_526",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_526.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_526.png",
+    "vendorArticleId" : "16152",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_526.png",
+    "title" : "Aluminium Print 50 x 50",
+    "price" : 65.989999999999995,
+    "size" : {
+      "width" : 50,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x50"
+  },
+  {
+    "id" : "PAP_527",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_527.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_527.png",
+    "vendorArticleId" : "16153",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_527.png",
+    "title" : "Aluminium Print 60 x 60",
+    "price" : 82.989999999999995,
+    "size" : {
+      "width" : 60,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x60"
+  },
+  {
+    "id" : "PAP_528",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_528.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_528.png",
+    "vendorArticleId" : "16154",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_528.png",
+    "title" : "Aluminium Print 70 x 70",
+    "price" : 104.98999999999999,
+    "size" : {
+      "width" : 70,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x70"
+  },
+  {
+    "id" : "PAP_529",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_529.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_529.png",
+    "vendorArticleId" : "16155",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_529.png",
+    "title" : "Aluminium Print 80 x 80",
+    "price" : 109.98999999999999,
+    "size" : {
+      "width" : 80,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x80"
+  },
+  {
+    "id" : "PAP_530",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_530.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_530.png",
+    "vendorArticleId" : "16156",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_530.png",
+    "title" : "Aluminium Print 100 x 100",
+    "price" : 149.99000000000001,
+    "size" : {
+      "width" : 100,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x100"
+  },
+  {
+    "id" : "PAP_480",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_480.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_480.png",
+    "vendorArticleId" : "16206",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_480.png",
+    "title" : "Acrylic Print 30 x 30",
+    "price" : 44.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_481",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_481.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_481.png",
+    "vendorArticleId" : "16207",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_481.png",
+    "title" : "Acrylic Print 40 x 40",
+    "price" : 54.990000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x40"
+  },
+  {
+    "id" : "PAP_482",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_482.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_482.png",
+    "vendorArticleId" : "16208",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_482.png",
+    "title" : "Acrylic Print 50 x 50",
+    "price" : 65.989999999999995,
+    "size" : {
+      "width" : 50,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x50"
+  },
+  {
+    "id" : "PAP_483",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_483.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_483.png",
+    "vendorArticleId" : "16209",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_483.png",
+    "title" : "Acrylic Print 60 x 60",
+    "price" : 99.989999999999995,
+    "size" : {
+      "width" : 60,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x60"
+  },
+  {
+    "id" : "PAP_484",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_484.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_484.png",
+    "vendorArticleId" : "16210",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_484.png",
+    "title" : "Acrylic Print 70 x 70",
+    "price" : 124.98999999999999,
+    "size" : {
+      "width" : 70,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x70"
+  },
+  {
+    "id" : "PAP_485",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_485.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_485.png",
+    "vendorArticleId" : "16211",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_485.png",
+    "title" : "Acrylic Print 80 x 80",
+    "price" : 169.99000000000001,
+    "size" : {
+      "width" : 80,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x80"
+  },
+  {
+    "id" : "PAP_486",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_486.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_486.png",
+    "vendorArticleId" : "16212",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_486.png",
+    "title" : "Acrylic Print 100 x 100",
+    "price" : 179.99000000000001,
+    "size" : {
+      "width" : 100,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x100"
+  },
+  {
+    "id" : "PAP_201",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.40000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_201.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_201.png",
+    "description" : "Perfect versatile size. Stylish and practical [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "16334",
+    "photoCoverSurplus" : 4,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_201.png",
+    "title" : "Portrait M 15x20 cm",
+    "price" : 16.989999999999998,
+    "size" : {
+      "width" : 15,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "15x20"
+  },
+  {
+    "id" : "PAP_201_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.40000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_201_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_201_COVER.png",
+    "description" : "Perfect versatile size. Stylish and practical [min. 24 pages, max. 120 pages]",
+    "vendorArticleId" : "16335",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_201_COVER.png",
+    "title" : "Portrait M 15x20 cm",
+    "price" : 20.989999999999998,
+    "size" : {
+      "width" : 15,
+      "height" : 20
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "15x20"
+  },
+  {
+    "id" : "PAP_202",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.90000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_202.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_202.png",
+    "description" : "Our biggest portrait photo book. Add a faux leather, linen or photo cover [min. 24 pages, max. 120 p",
+    "vendorArticleId" : "16350",
+    "photoCoverSurplus" : 10,
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_202.png",
+    "title" : "Portrait XL 27x36 cm",
+    "price" : 44.990000000000002,
+    "size" : {
+      "width" : 27,
+      "height" : 36
+    },
+    "visible" : 1,
+    "articleType" : "HardCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "27x36"
+  },
+  {
+    "id" : "PAP_202_COVER",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.90000000000000002,
+        "maxExtraPages" : 96,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+      {
+        "id" : "flysheetPaper",
+        "quantity" : 4
+      },
+      {
+        "id" : "coverCardboard",
+        "quantity" : 2
+      }
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_202_COVER.ZIP",
+    "spineCalculationType" : "Dynamic",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_202_COVER.png",
+    "description" : "Our biggest portrait photo book. Add a faux leather, linen or photo cover [min. 24 pages, max. 120 p",
+    "vendorArticleId" : "16351",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_202_COVER.png",
+    "title" : "Portrait XL 27x36 cm",
+    "price" : 54.990000000000002,
+    "size" : {
+      "width" : 27,
+      "height" : 36
+    },
+    "visible" : 0,
+    "articleType" : "HardPhotoCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "27x36"
+  },
+  {
+    "id" : "PAP_428",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_428.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_428.png",
+    "vendorArticleId" : "16371",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_428.png",
+    "title" : "canvas 20 x 20 cm",
+    "price" : 11.99,
+    "size" : {
+      "width" : 20,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Canvas",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x20"
+  },
+  {
+    "id" : "PAP_540",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_540.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_540.png",
+    "vendorArticleId" : "16574",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_540.png",
+    "title" : "Mounted print 30 x 20",
+    "price" : 20.489999999999998,
+    "size" : {
+      "width" : 30,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x20"
+  },
+  {
+    "id" : "PAP_541",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_541.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_541.png",
+    "vendorArticleId" : "16575",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_541.png",
+    "title" : "Mounted print 40 x 30",
+    "price" : 34.990000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x30"
+  },
+  {
+    "id" : "PAP_542",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_542.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_542.png",
+    "vendorArticleId" : "16576",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_542.png",
+    "title" : "Mounted print 60 x 40",
+    "price" : 43.990000000000002,
+    "size" : {
+      "width" : 60,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x40"
+  },
+  {
+    "id" : "PAP_543",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_543.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_543.png",
+    "vendorArticleId" : "16577",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_543.png",
+    "title" : "Mounted print 70 x 50",
+    "price" : 59.990000000000002,
+    "size" : {
+      "width" : 70,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x50"
+  },
+  {
+    "id" : "PAP_544",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_544.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_544.png",
+    "vendorArticleId" : "16578",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_544.png",
+    "title" : "Mounted print 80 x 60",
+    "price" : 78.989999999999995,
+    "size" : {
+      "width" : 80,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x60"
+  },
+  {
+    "id" : "PAP_545",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_545.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_545.png",
+    "vendorArticleId" : "16579",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_545.png",
+    "title" : "Mounted print 100 x 70 ",
+    "price" : 81.989999999999995,
+    "size" : {
+      "width" : 100,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x70"
+  },
+  {
+    "id" : "PAP_546",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_546.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_546.png",
+    "vendorArticleId" : "16580",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_546.png",
+    "title" : "Mounted print 120 x 80",
+    "price" : 149.99000000000001,
+    "size" : {
+      "width" : 120,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "120x80"
+  },
+  {
+    "id" : "PAP_547",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_547.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_547.png",
+    "vendorArticleId" : "16581",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_547.png",
+    "title" : "Mounted print 20 x 30",
+    "price" : 20.489999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x30"
+  },
+  {
+    "id" : "PAP_548",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_548.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_548.png",
+    "vendorArticleId" : "16582",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_548.png",
+    "title" : "Mounted print 30 x 40",
+    "price" : 34.990000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x40"
+  },
+  {
+    "id" : "PAP_549",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_549.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_549.png",
+    "vendorArticleId" : "16583",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_549.png",
+    "title" : "Mounted print 40 x 60",
+    "price" : 43.990000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x60"
+  },
+  {
+    "id" : "PAP_562",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_562.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_562.png",
+    "vendorArticleId" : "16584",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_562.png",
+    "title" : "Mounted print 50 x 70",
+    "price" : 59.990000000000002,
+    "size" : {
+      "width" : 50,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x70"
+  },
+  {
+    "id" : "PAP_563",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_563.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_563.png",
+    "vendorArticleId" : "16585",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_563.png",
+    "title" : "Mounted print 60 x 80",
+    "price" : 78.989999999999995,
+    "size" : {
+      "width" : 60,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x80"
+  },
+  {
+    "id" : "PAP_552",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_552.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_552.png",
+    "vendorArticleId" : "16586",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_552.png",
+    "title" : "Mounted print 70 x 100",
+    "price" : 81.989999999999995,
+    "size" : {
+      "width" : 70,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x100"
+  },
+  {
+    "id" : "PAP_553",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_553.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_553.png",
+    "vendorArticleId" : "16587",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_553.png",
+    "title" : "Mounted print 80 x 120",
+    "price" : 149.99000000000001,
+    "size" : {
+      "width" : 80,
+      "height" : 120
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x120"
+  },
+  {
+    "id" : "PAP_554",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_554.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_554.png",
+    "vendorArticleId" : "16588",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_554.png",
+    "title" : "Mounted print 30 x 30",
+    "price" : 27.989999999999998,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_555",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_555.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_555.png",
+    "vendorArticleId" : "16589",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_555.png",
+    "title" : "Mounted print 40 x 40",
+    "price" : 36.490000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x40"
+  },
+  {
+    "id" : "PAP_556",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_556.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_556.png",
+    "vendorArticleId" : "16590",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_556.png",
+    "title" : "Mounted print 50 x 50",
+    "price" : 51.990000000000002,
+    "size" : {
+      "width" : 50,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x50"
+  },
+  {
+    "id" : "PAP_557",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_557.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_557.png",
+    "vendorArticleId" : "16591",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_557.png",
+    "title" : "Mounted print 60 x 60",
+    "price" : 54.490000000000002,
+    "size" : {
+      "width" : 60,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x60"
+  },
+  {
+    "id" : "PAP_558",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_558.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_558.png",
+    "vendorArticleId" : "16592",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_558.png",
+    "title" : "Mounted print 70 x 70",
+    "price" : 64.989999999999995,
+    "size" : {
+      "width" : 70,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x70"
+  },
+  {
+    "id" : "PAP_559",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_559.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_559.png",
+    "vendorArticleId" : "16593",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_559.png",
+    "title" : "Mounted print 80 x80",
+    "price" : 129.99000000000001,
+    "size" : {
+      "width" : 80,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x80"
+  },
+  {
+    "id" : "PAP_560",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_560.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_560.png",
+    "vendorArticleId" : "16594",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_560.png",
+    "title" : "Mounted print 100 x 100",
+    "price" : 129.99000000000001,
+    "size" : {
+      "width" : 100,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x100"
+  },
+  {
+    "id" : "PAP_561",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_561.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_561.png",
+    "vendorArticleId" : "16595",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_561.png",
+    "title" : "Mounted print 20 x 20",
+    "price" : 15.99,
+    "size" : {
+      "width" : 20,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Forex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x20"
+  },
+  {
+    "id" : "PAP_715",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_715.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_715.png",
+    "vendorArticleId" : "16762",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_715.png",
+    "title" : "Samsung Galaxy S5 case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 0.10000000000000001,
+      "height" : 0.10000000000000001
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "0x0"
+  },
+  {
+    "id" : "PAP_716",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_716.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_716.png",
+    "vendorArticleId" : "16763",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_716.png",
+    "title" : "Samsung Galaxy S4 mini case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 0.10000000000000001,
+      "height" : 0.10000000000000001
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "0x0"
+  },
+  {
+    "id" : "PAP_717",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_717.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_717.png",
+    "vendorArticleId" : "16764",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_717.png",
+    "title" : "iPhone 6 case",
+    "price" : 17.989999999999998,
+    "size" : {
+      "width" : 0.10000000000000001,
+      "height" : 0.10000000000000001
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "0x0"
+  },
+  {
+    "id" : "PAP_718",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_718.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_718.png",
+    "vendorArticleId" : "16765",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_718.png",
+    "title" : "iPhone 6 Plus case",
+    "price" : 17.489999999999998,
+    "size" : {
+      "width" : 0.10000000000000001,
+      "height" : 0.10000000000000001
+    },
+    "visible" : 1,
+    "articleType" : "PhoneCase",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "0x0"
+  },
+  {
+    "id" : "PAP_487",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_487.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_487.png",
+    "vendorArticleId" : "16773",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_487.png",
+    "title" : "Acrylic 20 x 20",
+    "price" : 29.989999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Perspex",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x20"
+  },
+  {
+    "id" : "PAP_531",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_531.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_531.png",
+    "vendorArticleId" : "16781",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_531.png",
+    "title" : "Aluminium Print 20 x 20",
+    "price" : 21.989999999999998,
+    "size" : {
+      "width" : 20,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Aluminium",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x20"
+  },
+  {
+    "id" : "PAP_204",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.55000000000000004,
+        "maxExtraPages" : 36,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_204.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_204.png",
+    "description" : "Max. 60 pages, including cover",
+    "vendorArticleId" : "17090",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_204.png",
+    "title" : "Square L  - Soft Cover 21 x 21 cm",
+    "price" : 16.489999999999998,
+    "size" : {
+      "width" : 21,
+      "height" : 21
+    },
+    "visible" : 1,
+    "articleType" : "SoftCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "21x21"
+  },
+  {
+    "id" : "PAP_205",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.29999999999999999,
+        "maxExtraPages" : 36,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_205.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_205.png",
+    "description" : "Max. 60 pages, including cover",
+    "vendorArticleId" : "17091",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_205.png",
+    "title" : "Square M - Soft Cover 14 x 14 cm",
+    "price" : 11.49,
+    "size" : {
+      "width" : 14,
+      "height" : 14
+    },
+    "visible" : 1,
+    "articleType" : "SoftCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "14x14"
+  },
+  {
+    "id" : "PAP_203",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.20000000000000001,
+        "maxExtraPages" : 36,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_203.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_203.png",
+    "description" : "Max. 60 pages, including cover",
+    "vendorArticleId" : "17092",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_203.png",
+    "title" : "Square S - Soft Cover 10 x 10 cm",
+    "price" : 6.9900000000000002,
+    "size" : {
+      "width" : 10,
+      "height" : 10
+    },
+    "visible" : 1,
+    "articleType" : "SoftCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "10x10"
+  },
+  {
+    "id" : "PAP_910",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Glossy",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.01
+        }
+      },
+      "printSize" : {
+        "id" : "PrintSize",
+        "sizes" : [
+          {
+            "size" : {
+              "width" : 10.199878,
+              "height" : 10.199878
+            },
+            "id" : "PrintSize10x10",
+            "title" : "4\"x4\" ",
+            "price" : 0.070000000000000007,
+            "sizeDescription" : "10x10cm"
+          },
+          {
+            "size" : {
+              "width" : 12.200128000000001,
+              "height" : 10.199878
+            },
+            "id" : "PrintSize10x12",
+            "title" : "Retro prints",
+            "price" : 0.25,
+            "sizeDescription" : "12x10cm"
+          },
+          {
+            "size" : {
+              "width" : 13.599922000000001,
+              "height" : 10.199878
+            },
+            "id" : "PrintSize10x13",
+            "title" : "5,4\"x4\"",
+            "price" : 0.12,
+            "sizeDescription" : "13x10cm"
+          },
+          {
+            "size" : {
+              "width" : 15.299944,
+              "height" : 10.199878
+            },
+            "id" : "PrintSize10x15",
+            "title" : "6\"x4\"",
+            "price" : 0.12,
+            "sizeDescription" : "15x10cm"
+          }
+        ]
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_910.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_910.png",
+    "vendorArticleId" : "17488",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_910.png",
+    "title" : "Premium prints",
+    "price" : 0,
+    "size" : {
+      "width" : 10.199999999999999,
+      "height" : 0
+    },
+    "visible" : 1,
+    "articleType" : "Prints",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "10x0"
+  },
+  {
+    "id" : "PAP_911",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Glossy",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.01
+        }
+      },
+      "printSize" : {
+        "id" : "PrintSize",
+        "sizes" : [
+          {
+            "size" : {
+              "width" : 12.699999999999999,
+              "height" : 12.699999999999999
+            },
+            "id" : "PrintSize13x13",
+            "title" : "5\"x5\"",
+            "price" : 0.17999999999999999,
+            "sizeDescription" : "13x13cm"
+          },
+          {
+            "size" : {
+              "width" : 16.899889999999999,
+              "height" : 12.699999999999999
+            },
+            "id" : "PrintSize13x17",
+            "title" : "6.5\"x5\"",
+            "price" : 0.20000000000000001,
+            "sizeDescription" : "17x13cm"
+          },
+          {
+            "size" : {
+              "width" : 17.999963999999999,
+              "height" : 12.699999999999999
+            },
+            "id" : "PrintSize13x18",
+            "title" : "7\"x5\"",
+            "price" : 0.22,
+            "sizeDescription" : "18x13cm"
+          },
+          {
+            "size" : {
+              "width" : 18.999962,
+              "height" : 12.699999999999999
+            },
+            "id" : "PrintSize13x19",
+            "title" : "7.5\"x5\"",
+            "price" : 0.22,
+            "sizeDescription" : "19x13cm"
+          }
+        ]
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_911.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_911.png",
+    "vendorArticleId" : "17489",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_911.png",
+    "title" : "Large Premium prints",
+    "price" : 0,
+    "size" : {
+      "width" : 12.699999999999999,
+      "height" : 0
+    },
+    "visible" : 1,
+    "articleType" : "Prints",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "12x0"
+  },
+  {
+    "id" : "PAP_912",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Glossy",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.050000000000000003
+        }
+      },
+      "printSize" : {
+        "id" : "PrintSize",
+        "sizes" : [
+          {
+            "size" : {
+              "width" : 12.200128000000001,
+              "height" : 10.199878
+            },
+            "id" : "PrintSize10x12",
+            "title" : "Polaroid style",
+            "price" : 0.5,
+            "sizeDescription" : "12x10cm"
+          }
+        ]
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_912.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_912.png",
+    "vendorArticleId" : "17490",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_912.png",
+    "title" : "Retro Prints Box",
+    "price" : 0,
+    "size" : {
+      "width" : 10.199999999999999,
+      "height" : 0
+    },
+    "visible" : 0,
+    "articleType" : "Prints",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "10x0"
+  },
+  {
+    "id" : "PAP_913",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Glossy",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.01
+        }
+      },
+      "printSize" : {
+        "id" : "PrintSize",
+        "sizes" : [
+          {
+            "size" : {
+              "width" : 17.999963999999999,
+              "height" : 12.699999999999999
+            },
+            "id" : "PrintSize13x18",
+            "title" : "7\"x5\"",
+            "price" : 0.14000000000000001,
+            "sizeDescription" : "18x13cm"
+          }
+        ]
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_913.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_913.png",
+    "vendorArticleId" : "17491",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_913.png",
+    "title" : "Photo enlargements 7\"x5\"",
+    "price" : 0,
+    "size" : {
+      "width" : 12.699999999999999,
+      "height" : 0
+    },
+    "visible" : 0,
+    "articleType" : "Prints",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "12x0"
+  },
+  {
+    "id" : "PAP_914",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Glossy",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.10000000000000001
+        }
+      },
+      "printSize" : {
+        "id" : "PrintSize",
+        "sizes" : [
+          {
+            "size" : {
+              "width" : 30.500066,
+              "height" : 20.299934
+            },
+            "id" : "PrintSize20x30",
+            "title" : "12,2\"x8\"",
+            "price" : 1.5,
+            "sizeDescription" : "30x20cm"
+          }
+        ]
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_914.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_914.png",
+    "vendorArticleId" : "17492",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_914.png",
+    "title" : "Photo enlargements 8\"x12\"",
+    "price" : 0,
+    "size" : {
+      "width" : 20.300000000000001,
+      "height" : 0
+    },
+    "visible" : 1,
+    "articleType" : "Prints",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x0"
+  },
+  {
+    "id" : "PAP_915",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Glossy",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.050000000000000003
+        }
+      },
+      "printSize" : {
+        "id" : "PrintSize",
+        "sizes" : [
+          {
+            "size" : {
+              "width" : 20.299934,
+              "height" : 15.200122
+            },
+            "id" : "PrintSize15x20",
+            "title" : "8\"x6\"",
+            "price" : 0.75,
+            "sizeDescription" : "20x15cm"
+          }
+        ]
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_915.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_915.png",
+    "vendorArticleId" : "17500",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_915.png",
+    "title" : "Photo enlargements 8\"x6\"",
+    "price" : 0,
+    "size" : {
+      "width" : 15.199999999999999,
+      "height" : 0
+    },
+    "visible" : 1,
+    "articleType" : "Prints",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "15x0"
+  },
+  {
+    "id" : "PAP_940",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_940.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_940.png",
+    "description" : "10x10 cm",
+    "vendorArticleId" : "17725",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_940.png",
+    "title" : "Flat photo cards",
+    "price" : 7.9800000000000004,
+    "size" : {
+      "width" : 10.199999999999999,
+      "height" : 10.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "10x10"
+  },
+  {
+    "id" : "PAP_941",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_941.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_941.png",
+    "description" : "15x15 cm",
+    "vendorArticleId" : "17726",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_941.png",
+    "title" : "Flat photo cards",
+    "price" : 9.9800000000000004,
+    "size" : {
+      "width" : 15.199999999999999,
+      "height" : 15.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "15x15"
+  },
+  {
+    "id" : "PAP_942",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_942.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_942.png",
+    "description" : "10x15 cm",
+    "vendorArticleId" : "17727",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_942.png",
+    "title" : "Flat photo cards",
+    "price" : 7.9800000000000004,
+    "size" : {
+      "width" : 10.199999999999999,
+      "height" : 15.300000000000001
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "10x15"
+  },
+  {
+    "id" : "PAP_943",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_943.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_943.png",
+    "description" : "15x10 cm",
+    "vendorArticleId" : "17728",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_943.png",
+    "title" : "Flat photo cards",
+    "price" : 7.9800000000000004,
+    "size" : {
+      "width" : 15.300000000000001,
+      "height" : 10.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "15x10"
+  },
+  {
+    "id" : "PAP_944",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_944.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_944.png",
+    "description" : "13x19 cm",
+    "vendorArticleId" : "17729",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_944.png",
+    "title" : "Flat photo cards",
+    "price" : 9.9800000000000004,
+    "size" : {
+      "width" : 12.699999999999999,
+      "height" : 19
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "12x19"
+  },
+  {
+    "id" : "PAP_945",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_945.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_945.png",
+    "description" : "19x13 cm",
+    "vendorArticleId" : "17730",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_945.png",
+    "title" : "Flat photo cards",
+    "price" : 9.9800000000000004,
+    "size" : {
+      "width" : 19,
+      "height" : 12.699999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "19x12"
+  },
+  {
+    "id" : "PAP_950",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_950.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_950.png",
+    "description" : "10x10 cm",
+    "vendorArticleId" : "17731",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_950.png",
+    "title" : "Folded photo cards",
+    "price" : 9.9800000000000004,
+    "size" : {
+      "width" : 20.399999999999999,
+      "height" : 10.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "20x10"
+  },
+  {
+    "id" : "PAP_951",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_951.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_951.png",
+    "description" : "15x15 cm",
+    "vendorArticleId" : "17732",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_951.png",
+    "title" : "Folded photo cards",
+    "price" : 11.98,
+    "size" : {
+      "width" : 30.399999999999999,
+      "height" : 15.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "30x15"
+  },
+  {
+    "id" : "PAP_952",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_952.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_952.png",
+    "description" : "10x15 cm",
+    "vendorArticleId" : "17733",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_952.png",
+    "title" : "Folded photo cards",
+    "price" : 9.9800000000000004,
+    "size" : {
+      "width" : 20.399999999999999,
+      "height" : 15.300000000000001
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "20x15"
+  },
+  {
+    "id" : "PAP_953",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_953.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_953.png",
+    "description" : "15x10 cm",
+    "vendorArticleId" : "17734",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_953.png",
+    "title" : "Folded photo cards",
+    "price" : 9.9800000000000004,
+    "size" : {
+      "width" : 30.600000000000001,
+      "height" : 10.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "30x10"
+  },
+  {
+    "id" : "PAP_954",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_954.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_954.png",
+    "description" : "13x19 cm",
+    "vendorArticleId" : "17735",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_954.png",
+    "title" : "Folded photo cards",
+    "price" : 11.98,
+    "size" : {
+      "width" : 25.399999999999999,
+      "height" : 19
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "25x19"
+  },
+  {
+    "id" : "PAP_955",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.17499999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_955.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_955.png",
+    "description" : "19x13 cm",
+    "vendorArticleId" : "17736",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_955.png",
+    "title" : "Folded photo cards",
+    "price" : 11.98,
+    "size" : {
+      "width" : 38,
+      "height" : 12.699999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 2,
+    "sizeDescription" : "38x12"
+  },
+  {
+    "id" : "PAP_932",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.75
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_932.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_932.png",
+    "description" : "10x15 cm",
+    "vendorArticleId" : "17775",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_932.png",
+    "title" : "Customizable photo prints",
+    "price" : 4.9000000000000004,
+    "size" : {
+      "width" : 10.199999999999999,
+      "height" : 15.300000000000001
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "10x15"
+  },
+  {
+    "id" : "PAP_933",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.75
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_933.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_933.png",
+    "description" : "15x10 cm",
+    "vendorArticleId" : "17776",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_933.png",
+    "title" : "Customizable photo prints",
+    "price" : 4.9000000000000004,
+    "size" : {
+      "width" : 15.300000000000001,
+      "height" : 10.199999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "15x10"
+  },
+  {
+    "id" : "PAP_934",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.75
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_934.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_934.png",
+    "description" : "13x19 cm",
+    "vendorArticleId" : "17777",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_934.png",
+    "title" : "Customizable photo prints",
+    "price" : 7.9800000000000004,
+    "size" : {
+      "width" : 12.699999999999999,
+      "height" : 19
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "12x19"
+  },
+  {
+    "id" : "PAP_935",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Matt",
+          "price" : 0.75
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_935.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_935.png",
+    "description" : "19x13 cm",
+    "vendorArticleId" : "17778",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_935.png",
+    "title" : "Customizable photo prints",
+    "price" : 7.9800000000000004,
+    "size" : {
+      "width" : 19,
+      "height" : 12.699999999999999
+    },
+    "visible" : 1,
+    "articleType" : "GreetingCard",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "19x12"
+  },
+  {
+    "id" : "PAP_658",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.1923
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_658.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_658.png",
+    "vendorArticleId" : "17807",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_658.png",
+    "title" : "Square Photo Calendar",
+    "price" : 9.9900000000000002,
+    "size" : {
+      "width" : 20.300000000000001,
+      "height" : 20.300000000000001
+    },
+    "visible" : 1,
+    "articleType" : "Calendar",
+    "defaultNumberOfPages" : 13,
+    "sizeDescription" : "20x20"
+  },
+  {
+    "id" : "PAP_659",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.1923
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_659.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_659.png",
+    "vendorArticleId" : "17808",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_659.png",
+    "title" : "A4 Photo Calendar",
+    "price" : 14.99,
+    "size" : {
+      "width" : 20.300000000000001,
+      "height" : 28.699999999999999
+    },
+    "visible" : 1,
+    "articleType" : "Calendar",
+    "defaultNumberOfPages" : 13,
+    "sizeDescription" : "20x28"
+  },
+  {
+    "id" : "PAP_720",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_720.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_720.png",
+    "vendorArticleId" : "17818",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_720.png",
+    "title" : "Personalised mugs",
+    "price" : 7.9900000000000002,
+    "size" : {
+      "width" : 20.5,
+      "height" : 7.5999999999999996
+    },
+    "visible" : 1,
+    "articleType" : "Mug",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x7"
+  },
+  {
+    "id" : "PAP_721",
+    "extras" : {
+
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "http:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_721.ZIP",
+    "spineCalculationType" : "None",
+    "previewImageUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/previews\/PAP_721.png",
+    "vendorArticleId" : "17839",
+    "thumbnailUrl" : "https:\/\/a-dtap.assets.photoconnector.net\/OnlineEditor\/bonusprint.co.uk\/productshots\/thumbs\/PAP_721.png",
+    "title" : "Wraparound mug",
+    "price" : 10.99,
+    "size" : {
+      "width" : 20.5,
+      "height" : 7.5999999999999996
+    },
+    "visible" : 1,
+    "articleType" : "Mug",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x7"
+  },
+  {
+    "id" : "PAP_610",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.48999999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_610.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18098",
+    "title" : "Poster 30 x 20",
+    "price" : 3.9900000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x20"
+  },
+  {
+    "id" : "PAP_611",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.98999999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_611.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18099",
+    "title" : "Poster 40 x 30",
+    "price" : 7.4900000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x30"
+  },
+  {
+    "id" : "PAP_612",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.49
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_612.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18100",
+    "title" : "Poster 60 x 40",
+    "price" : 10.49,
+    "size" : {
+      "width" : 60,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x40"
+  },
+  {
+    "id" : "PAP_613",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.99
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_613.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18101",
+    "title" : "Poster 70 x 50",
+    "price" : 13.99,
+    "size" : {
+      "width" : 70,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x50"
+  },
+  {
+    "id" : "PAP_614",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 2.4900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_614.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18102",
+    "title" : "Poster 80 x 60",
+    "price" : 15.99,
+    "size" : {
+      "width" : 80,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x60"
+  },
+  {
+    "id" : "PAP_615",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 2.9900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_615.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18103",
+    "title" : "Poster 100 x 70",
+    "price" : 23.489999999999998,
+    "size" : {
+      "width" : 100,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x70"
+  },
+  {
+    "id" : "PAP_616",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 3.4900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_616.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18104",
+    "title" : "Poster 120 x 80",
+    "price" : 28.489999999999998,
+    "size" : {
+      "width" : 120,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "120x80"
+  },
+  {
+    "id" : "PAP_617",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.48999999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_617.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18105",
+    "title" : "Poster 20 x 30",
+    "price" : 3.9900000000000002,
+    "size" : {
+      "width" : 20,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x30"
+  },
+  {
+    "id" : "PAP_618",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.98999999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_618.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18106",
+    "title" : "Poster 30 x 40",
+    "price" : 7.4900000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x40"
+  },
+  {
+    "id" : "PAP_619",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.49
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_619.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18107",
+    "title" : "Poster 40 x 60",
+    "price" : 10.49,
+    "size" : {
+      "width" : 40,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x60"
+  },
+  {
+    "id" : "PAP_620",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.99
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_620.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18108",
+    "title" : "Poster 50 x 70",
+    "price" : 13.99,
+    "size" : {
+      "width" : 50,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x70"
+  },
+  {
+    "id" : "PAP_621",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 2.4900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_621.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18109",
+    "title" : "Poster 60 x 80",
+    "price" : 15.99,
+    "size" : {
+      "width" : 60,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x80"
+  },
+  {
+    "id" : "PAP_622",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 2.9900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_622.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18110",
+    "title" : "Poster 70 x 100",
+    "price" : 23.489999999999998,
+    "size" : {
+      "width" : 70,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x100"
+  },
+  {
+    "id" : "PAP_623",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 3.4900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_623.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18111",
+    "title" : "Poster 80 x 120",
+    "price" : 28.489999999999998,
+    "size" : {
+      "width" : 80,
+      "height" : 120
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x120"
+  },
+  {
+    "id" : "PAP_624",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.48999999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_624.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18112",
+    "title" : "Poster 20 x 20",
+    "price" : 3.1299999999999999,
+    "size" : {
+      "width" : 20,
+      "height" : 20
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "20x20"
+  },
+  {
+    "id" : "PAP_625",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.98999999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_625.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18113",
+    "title" : "Poster 30 x 30",
+    "price" : 6.4900000000000002,
+    "size" : {
+      "width" : 30,
+      "height" : 30
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "30x30"
+  },
+  {
+    "id" : "PAP_626",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.49
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_626.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18114",
+    "title" : "Poster 40 x 40",
+    "price" : 9.9900000000000002,
+    "size" : {
+      "width" : 40,
+      "height" : 40
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "40x40"
+  },
+  {
+    "id" : "PAP_627",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.49
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_627.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18115",
+    "title" : "Poster 50 x 50",
+    "price" : 11.49,
+    "size" : {
+      "width" : 50,
+      "height" : 50
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "50x50"
+  },
+  {
+    "id" : "PAP_628",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 1.99
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_628.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18116",
+    "title" : "Poster 60 x 60",
+    "price" : 13.49,
+    "size" : {
+      "width" : 60,
+      "height" : 60
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "60x60"
+  },
+  {
+    "id" : "PAP_629",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 2.4900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_629.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18117",
+    "title" : "Poster 70 x 70",
+    "price" : 16.989999999999998,
+    "size" : {
+      "width" : 70,
+      "height" : 70
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "70x70"
+  },
+  {
+    "id" : "PAP_630",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 2.9900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_630.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18118",
+    "title" : "Poster 80 x 80",
+    "price" : 18.489999999999998,
+    "size" : {
+      "width" : 80,
+      "height" : 80
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "80x80"
+  },
+  {
+    "id" : "PAP_631",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 3.9900000000000002
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_631.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18119",
+    "title" : "Poster 100 x 100",
+    "price" : 25.989999999999998,
+    "size" : {
+      "width" : 100,
+      "height" : 100
+    },
+    "visible" : 1,
+    "articleType" : "Poster",
+    "defaultNumberOfPages" : 1,
+    "sizeDescription" : "100x100"
+  },
+  {
+    "id" : "PAP_350",
+    "extras" : {
+      "extraPages" : {
+        "id" : "ExtraPages",
+        "extraPagePrice" : 0.55000000000000004,
+        "maxExtraPages" : 36,
+        "pageIncrement" : 2
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_350.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18274",
+    "title" : "Softcover landscape L 28x21 cm",
+    "price" : 19.989999999999998,
+    "size" : {
+      "width" : 28,
+      "height" : 21
+    },
+    "visible" : 1,
+    "articleType" : "SoftCoverPhotoBook",
+    "defaultNumberOfPages" : 24,
+    "sizeDescription" : "28x21"
+  },
+  {
+    "id" : "PAP_660",
+    "extras" : {
+      "paperStyles" : {
+        "glossy" : {
+          "id" : "glossy",
+          "title" : "Gloss",
+          "price" : 0.26919999999999999
+        },
+        "matte" : {
+          "id" : "matte",
+          "title" : "Standard matt",
+          "price" : 0
+        }
+      }
+    },
+    "materials" : [
+
+    ],
+    "productTemplateUrl" : "https:\/\/dod.filecatalogue.com\/Assets\/Templates71\/ML\/PAP_660.ZIP",
+    "spineCalculationType" : "None",
+    "vendorArticleId" : "18282",
+    "title" : "A3 Photo Calendar",
+    "price" : 24.989999999999998,
+    "size" : {
+      "width" : 29.699999999999999,
+      "height" : 42
+    },
+    "visible" : 1,
+    "articleType" : "Calendar",
+    "defaultNumberOfPages" : 13,
+    "sizeDescription" : "29x42"
+  }
+]
