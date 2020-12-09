@@ -14,6 +14,8 @@ enum PersistanceError: Error {
 //    case usersNotFetched
     case articleNotFound
     case slqDBNotFound
+    case noArticleMatchesDescription
+
 //    case noUsersFound
 }
 
@@ -85,7 +87,7 @@ class PersistanceController {
         // MARK: Fetch Articles
         // MARK: Fetch Article
         // MARK: Purge All Articles
-    // MARK: Filter Article
+        // MARK: Filter Article
     // MARK: Delete Article
 
     //================
@@ -249,7 +251,6 @@ class PersistanceController {
             }
 
             let articles = resultsArticles.map { Article(articleMO: $0) }
-
             cb(.success(articles))
         } catch {
             print("fetchUsers Failed: \(error)")
@@ -314,51 +315,30 @@ class PersistanceController {
         cb(.success(.articlesDeleted))
     }
 
+    // MARK: Filter Article
+    func filter(byDescription description: String, cb: ((Result<[Article], PersistanceError>) -> Void)) {
 
+        let context = persistentContainer.viewContext
+        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
 
+        request.predicate = NSPredicate(format: "articleDescription contains %@", description)
+        request.returnsObjectsAsFaults = false
+
+        do {
+            guard let result = try context.fetch(request) as? [ArticleMO], result.count != 0 else {
+                cb(.failure(.noArticleMatchesDescription))
+                return
+            }
+
+            let articles = result.map { Article(articleMO: $0) }
+            cb(.success(articles))
+
+        } catch {
+            cb(.failure(.persistance(error: error)))
+        }
+    }
 
     
-//    func filter(by userName: String, cb: ((Result<[UserModel], PerError>) -> Void)) {
-//
-//        let context = persistentContainer.viewContext
-//
-//        let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceHelper.userEntityName)
-//        request.predicate = NSPredicate(format: "username contains %@", userName)
-//        request.returnsObjectsAsFaults = false
-//
-//        do {
-//            guard let result = try context.fetch(request) as? [UserCD], result.count != 0 else {
-//                cb(.failure(.noUsersFound))
-//                return
-//            }
-//
-//            var usersLo = [UserModel]()
-//
-//            for userCD in result {
-//
-//                let pets = try? JSONDecoder().decode([Pet].self, from: userCD.pets ?? Data())
-//
-//                let userModel = UserModel(
-//                    id: userCD.userId ?? "",
-//                    username: userCD.username,
-//                    password: userCD.password,
-//                    age: userCD.age,
-//                    pets: pets
-//                )
-//
-//                usersLo.append(userModel)
-//            }
-//
-//            cb(.success(usersLo))
-//
-//            // KVO
-//    //        for data in result as! [NSManagedObject] {
-//    //           print(data.value(forKey: "username") as! String)
-//    //        }
-//        } catch {
-//            cb(.failure(PerError.persistance(error: error)))
-//        }
-//    }
 //
 //    func deleteUser(userId: String, cb: ((Result<PerResult, PerError>) -> Void)) {
 //

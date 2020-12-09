@@ -92,6 +92,16 @@ class ArticlesVC: UIViewController {
 //            }
 //        }
 
+        // MARK: Filter Article
+        PersistanceController.shared.filter(byDescription: "Perfect ver") { (result) in
+            switch result {
+            case .failure(let err):
+                print(err)
+            case .success(let articles):
+                print(articles)
+            }
+        }
+
 
 
 
