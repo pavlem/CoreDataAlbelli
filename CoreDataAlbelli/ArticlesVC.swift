@@ -19,8 +19,18 @@ class ArticlesVC: UIViewController {
         let articles = try? JSONDecoder().decode([Article].self, from: articlesData!)
         var articleOne = articles!.first!
 
+        // MARK: Create Articles
+//        PersistanceController.shared.create(articles: articles!) { (result) in
+//            switch result {
+//            case .failure(let err):
+//                print(err)
+//            case .success(let status):
+//                print(status)
+//            }
+//        }
+
         // MARK: Save Article
-//        PersistanceController.shared.save(article: articleOne) { (result) in
+//        PersistanceController.shared.create(article: articleOne) { (result) in
 //            switch result {
 //            case .failure(let err):
 //                print(err)
@@ -30,28 +40,19 @@ class ArticlesVC: UIViewController {
 //        }
 
 //        MARK: Update Article
-        articleOne.description = "Paja Patak"
-        PersistanceController.shared.update(article: articleOne) { (result) in
-            switch result {
-            case .failure(let err):
-                print(err)
-            case .success(let status):
-                print(status)
-            }
-        }
+//        articleOne.description = "Paja Patak"
+//        PersistanceController.shared.update(article: articleOne) { (result) in
+//            switch result {
+//            case .failure(let err):
+//                print(err)
+//            case .success(let status):
+//                print(status)
+//            }
+//        }
+//
 
-        // MARK: Save Or Update Articles
-        PersistanceController.shared.create(articles: articles!) { (result) in
-            switch result {
-            case .failure(let err):
-                print(err)
-            case .success(let status):
-                print(status)
-            }
-        }
-
-        // MARK: Save Or Update Article
-//        PersistanceController.shared.saveOrUpdate(article: articleOne) { (result) in
+        // MARK: Create Or Update Article
+//        PersistanceController.shared.create(article: articleOne) { (result) in
 //            switch result {
 //            case .failure(let err):
 //                print(err)
@@ -72,7 +73,7 @@ class ArticlesVC: UIViewController {
 //        }
 
         // MARK: Fetch Article
-//        PersistanceController.shared.fetchArticle(forArticleId: "PAP_130") { (result) in
+//        PersistanceController.shared.fetchArticle(forArticleId: "PAP_130_COVER") { (result) in
 //            switch result {
 //            case .failure(let err):
 //                print(err)
@@ -92,7 +93,7 @@ class ArticlesVC: UIViewController {
 //        }
 
         // MARK: Filter Article
-//        PersistanceController.shared.filter(byDescription: "Perfect ver") { (result) in
+//        PersistanceController.shared.filterArticle(byDescription: "Perfect ver") { (result) in
 //            switch result {
 //            case .failure(let err):
 //                print(err)

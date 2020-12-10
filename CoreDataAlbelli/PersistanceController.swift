@@ -8,6 +8,7 @@ enum PersistanceError: Error {
     case articlesDoNotExist
     case dbNotFound
     case noFilteringMatches
+    case noArticleEntityFound
 }
 
 enum PersistanceResult {
@@ -21,21 +22,23 @@ class PersistanceController {
     // MARK: - API
     static var shared = PersistanceController()
 
-    // MARK: Save Article
-    func save(article: Article, cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
+    // MARK: Create Article
+    func create(article: Article, cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
 
         let context = persistentContainer.viewContext
+        guard let entity = NSEntityDescription.entity(forEntityName: PersistanceController.articleEntityName, in: context), let entityName = entity.name else {
+            cb(.failure(.noArticleEntityFound))
+            return
+        }
 
-        let entity = NSEntityDescription.entity(forEntityName: PersistanceController.articleEntityName, in: context)!
-
-        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: entity.name!)
-        fetchRequest.predicate = NSPredicate(format: "articleId LIKE %@", "\(article.id ?? "")")
+        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: entityName)
+        fetchRequest.predicate = getFetchRequestPredicate(forArticleId: article.id)
 
         do {
             let results = try context.fetch(fetchRequest) as? [ArticleMO]
 
             guard results?.count == 0 else {
-                cb(.failure(PersistanceError.articleAlreadyExists))
+                cb(.failure(.articleAlreadyExists))
                 return
             }
 
@@ -58,10 +61,13 @@ class PersistanceController {
     func update(article: Article, cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
 
         let context = persistentContainer.viewContext
-        let entity = NSEntityDescription.entity(forEntityName: PersistanceController.articleEntityName, in: context)!
-
-        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: entity.name!)
-        fetchRequest.predicate = NSPredicate(format: "articleId LIKE %@", "\(article.id ?? "")")
+        guard let entityName = NSEntityDescription.entity(forEntityName: PersistanceController.articleEntityName, in: context)?.name else {
+            cb(.failure(.noArticleEntityFound))
+            return
+        }
+        
+        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: entityName)
+        fetchRequest.predicate = getFetchRequestPredicate(forArticleId: article.id)
 
         do {
             let results = try context.fetch(fetchRequest) as? [ArticleMO]
@@ -103,42 +109,10 @@ class PersistanceController {
         cb(.success(.created))
     }
 
-    // MARK: Create Or Update Article
-    func createOrUpdate(article: Article, cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
-        let context = persistentContainer.viewContext
-        let entity = NSEntityDescription.entity(forEntityName: PersistanceController.articleEntityName, in: context)!
-
-        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: entity.name!)
-
-        let articleId = article.id!
-        fetchRequest.predicate = NSPredicate(format: "articleId LIKE %@", "\(articleId)")
-
-        do {
-            let results = try context.fetch(fetchRequest) as? [ArticleMO]
-
-            guard results?.count != 0 else {
-
-                save(article: article) { (result) in
-                    cb(result)
-                }
-                return
-            }
-
-            update(article: article) { (result) in
-                cb(result)
-            }
-
-        } catch {
-            cb(.failure(PersistanceError.persistance(error: error)))
-        }
-    }
-
     func fetchArticles(cb: ((Result<[Article], PersistanceError>) -> Void)) {
-
         let context = persistentContainer.viewContext
-
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
-        request.returnsObjectsAsFaults = false
+//        request.returnsObjectsAsFaults = false
 
         do {
             guard let resultsArticles = try context.fetch(request) as? [ArticleMO], resultsArticles.count > 0 else {
@@ -160,8 +134,8 @@ class PersistanceController {
         let context = persistentContainer.viewContext
 
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
-        request.predicate = NSPredicate(format: "articleId LIKE %@", "\(articleId)")
-        request.returnsObjectsAsFaults = false
+        request.predicate = getFetchRequestPredicate(forArticleId: articleId)
+//        request.returnsObjectsAsFaults = false
 
         do {
             let result = try context.fetch(request)
@@ -218,7 +192,7 @@ class PersistanceController {
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
 
         request.predicate = NSPredicate(format: "articleDescription contains %@", description)
-        request.returnsObjectsAsFaults = false
+//        request.returnsObjectsAsFaults = false
 
         do {
             guard let result = try context.fetch(request) as? [ArticleMO], result.count != 0 else {
@@ -239,9 +213,9 @@ class PersistanceController {
 
         let context = persistentContainer.viewContext
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: PersistanceController.articleEntityName)
-        request.predicate = NSPredicate(format: "articleId LIKE %@", "\(articleId)")
+        request.predicate = getFetchRequestPredicate(forArticleId: articleId)
 
-        request.returnsObjectsAsFaults = false
+//        request.returnsObjectsAsFaults = false
 
         do {
             let result = try context.fetch(request)
@@ -296,7 +270,8 @@ class PersistanceController {
         return container
     }()
 
-    // MARK: - Core Data Saving support
+    // MARK: - Helper
+    // MARK: Core Data Saving support
     private func saveContext(success: () -> Void, fail: (Error) -> Void) {
         let context = persistentContainer.viewContext
         if context.hasChanges {
@@ -307,5 +282,42 @@ class PersistanceController {
                 fail(error)
             }
         }
+    }
+
+    // MARK: Create Or Update Article
+    private func createOrUpdate(article: Article, cb: ((Result<PersistanceResult, PersistanceError>) -> Void)) {
+        let context = persistentContainer.viewContext
+
+        guard let entityName = NSEntityDescription.entity(forEntityName: PersistanceController.articleEntityName, in: context)?.name else {
+            cb(.failure(.noArticleEntityFound))
+            return
+        }
+
+        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: entityName)
+
+        fetchRequest.predicate = getFetchRequestPredicate(forArticleId: article.id)
+
+        do {
+            let results = try context.fetch(fetchRequest) as? [ArticleMO]
+
+            guard results?.count != 0 else {
+
+                create(article: article) { (result) in
+                    cb(result)
+                }
+                return
+            }
+
+            update(article: article) { (result) in
+                cb(result)
+            }
+
+        } catch {
+            cb(.failure(.persistance(error: error)))
+        }
+    }
+
+    private func getFetchRequestPredicate(forArticleId id: String) -> NSPredicate {
+        return NSPredicate(format: "articleId LIKE %@", "\(id)")
     }
 }

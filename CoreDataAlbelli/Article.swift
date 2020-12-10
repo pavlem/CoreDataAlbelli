@@ -4,7 +4,7 @@ import Foundation
 
 // MARK: - Article
 struct Article: Codable {
-    let id: String?
+    let id: String
     let materials: [Material]?
     var description: String?
     let productTemplateUrl: String?
@@ -41,7 +41,7 @@ extension Article {
 extension Article {
     init (articleMO: ArticleMO) {
 
-        self.id = articleMO.articleId
+        self.id = articleMO.articleId ?? ""
         self.materials = Article.getMaterials(from: articleMO.materials)
         self.description = articleMO.articleDescription
         self.productTemplateUrl = articleMO.productTemplateUrl
