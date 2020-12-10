@@ -37,5 +37,23 @@ extension ArticleMO {
 }
 
 extension ArticleMO : Identifiable {
-
+    func populate(withArticle article: Article) {
+        self.articleDescription = article.description
+        self.articleId = article.id
+        self.articleType = article.articleType
+        self.defaultNumberOfPages = Int64(article.defaultNumberOfPages ?? 0)
+        self.extras = article.articleExtrasData
+        self.materials = article.articleMaterialsData
+        self.photoCoverSurplus = article.photoCoverSurplus ?? 0
+        self.previewImageUrl = article.previewImageUrl
+        self.price = article.price ?? 0
+        self.productTemplateUrl = article.productTemplateUrl
+        self.size = article.articleSizeData
+        self.sizeDescription = article.sizeDescription
+        self.spineCalculationType = article.spineCalculationType
+        self.thumbnailUrl = article.thumbnailUrl
+        self.title = article.title
+        self.vendorArticleId = article.vendorArticleId
+        self.visible = Int64(article.visible ?? 0)
+    }
 }

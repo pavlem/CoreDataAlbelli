@@ -81,7 +81,6 @@ extension Article {
     }
 }
 
-
 // MARK: - Extras
 struct Extras: Codable {
     let extraPages: ExtraPages?

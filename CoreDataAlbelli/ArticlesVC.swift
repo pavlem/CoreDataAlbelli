@@ -17,7 +17,6 @@ class ArticlesVC: UIViewController {
         let urlPath = URL(fileURLWithPath: stringPath!)
         let articlesData = try? Data(contentsOf: urlPath)
         let articles = try? JSONDecoder().decode([Article].self, from: articlesData!)
-
         var articleOne = articles!.first!
 
         // MARK: Save Article
@@ -31,25 +30,25 @@ class ArticlesVC: UIViewController {
 //        }
 
 //        MARK: Update Article
-//        articleOne.description = "Paja Patak"
-//        PersistanceController.shared.update(article: articleOne) { (result) in
-//            switch result {
-//            case .failure(let err):
-//                print(err)
-//            case .success(let status):
-//                print(status)
-//            }
-//        }
+        articleOne.description = "Paja Patak"
+        PersistanceController.shared.update(article: articleOne) { (result) in
+            switch result {
+            case .failure(let err):
+                print(err)
+            case .success(let status):
+                print(status)
+            }
+        }
 
         // MARK: Save Or Update Articles
-//        PersistanceController.shared.saveOrUpdate(articles: articles!) { (result) in
-//            switch result {
-//            case .failure(let err):
-//                print(err)
-//            case .success(let status):
-//                print(status)
-//            }
-//        }
+        PersistanceController.shared.create(articles: articles!) { (result) in
+            switch result {
+            case .failure(let err):
+                print(err)
+            case .success(let status):
+                print(status)
+            }
+        }
 
         // MARK: Save Or Update Article
 //        PersistanceController.shared.saveOrUpdate(article: articleOne) { (result) in
